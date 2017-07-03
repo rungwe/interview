@@ -1,0 +1,9 @@
+Attribute, count, total
+Network 3, 3, 7110.0
+Network 2, 3, 8540.0
+Network 1, 2, 2801.0
+Loan Product 3, 2, 3675.0
+Loan Product 1, 3, 7793.0
+Loan Product 2, 3, 6983.0
+Mar-2016, 4, 7304.0
+Apr-2016, 4, 11147.0
